@@ -5,6 +5,7 @@ body{
   margin: 0px;
   background-color:#444;
   font-size: 18px;
+  background-image: url('http://1079638729.rsc.cdn77.org/pic/v2/gallery/preview/nebo-pejzazh-polya-trava-175.jpg');
 }
 body, a:link, a:visited, a:active{
   color: lightblue;
@@ -22,6 +23,11 @@ body, a:link, a:visited, a:active{
 }
 .dancer{
   border:10px solid red;
+  border-radius:10px;
+  position:absolute;
+}
+.jumper{
+  border:30px solid blue;
   border-radius:10px;
   position:absolute;
 }
